@@ -32,5 +32,5 @@ K-Means Algorithm for clustering colors
 
 PPM Image Format (Portable Pixmap)
 
-## 📸 Example
-<p align="center"> <img src="image.ppm" alt="Original Image" width="45%"> <img src="draw.ppm" alt="Posterized Image" width="45%"> </p>
+## 📸 Example with 4 means
+<p align="center"> <img src="image.png" alt="Original Image" width="45%"> <img src="draw.png" alt="Posterized Image" width="45%"> </p>
