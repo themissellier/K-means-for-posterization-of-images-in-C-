@@ -34,3 +34,7 @@ PPM Image Format (Portable Pixmap)
 
 ## 📸 Example with 4 means
 <p align="center"> <img src="image.png" alt="Original Image" width="45%"> <img src="draw.png" alt="Posterized Image" width="45%"> </p>
+
+
+## 
+Here you can find more of my projects : https://github.com/themissellier/My-projects
